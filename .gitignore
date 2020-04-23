@@ -3,6 +3,8 @@
 .elasticbeanstalk/*
 !.elasticbeanstalk/*.cfg.yml
 !.elasticbeanstalk/*.global.yml
+django_env/*
+env/*
 # Compiled source #
 ###################
 *.com
